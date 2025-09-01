@@ -1,0 +1,16 @@
+[33mf632982[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Fix: Add @vue/shared alias and external config to resolve Element Plus dependency issue
+[33me42197d[m Fix: Downgrade Element Plus to 2.2.32 for better Vue 3.2.47 compatibility
+[33m4bdb471[m Fix: Use Vue as global for @vue/shared to resolve runtime dependency
+[33mdee798c[m Fix: Replace external config with optimizeDeps to resolve @vue/shared runtime error
+[33m7502363[m Fix: Add @vue/shared external configuration to resolve Element Plus dependency issue
+[33mc387220[m Fix: Use Vue 3.2.47 for better Element Plus compatibility
+[33m16b8812[m Simplify: Remove problematic vite-plugin-vue-devtools to fix dependency issues
+[33m1650a8d[m Fix: Use correct vite-plugin-vue-devtools version 5.0.0
+[33m130fcdc[m Fix: Use exact versions and legacy-peer-deps for maximum compatibility
+[33mc4b7e00[m Fix: Use Vite 4 and Vue 3.3 for maximum Node.js 18 compatibility
+[33m441933d[m Fix: Downgrade Vite and Vue versions for Node.js 18 compatibility
+[33m41abe1b[m Simplify: Remove potentially problematic Element Plus plugins to fix build issues
+[33m565dd40[m Fix: Restore working dependencies and improve GitHub Actions workflow
+[33m2ebfad1[m Fix: Add missing Element Plus dependencies and plugins
+[33m6b87a3e[m Update README with deployment instructions
+[33md887d0b[m Initial commit: WorkloadAssign system with Vue 3 and Element Plus
